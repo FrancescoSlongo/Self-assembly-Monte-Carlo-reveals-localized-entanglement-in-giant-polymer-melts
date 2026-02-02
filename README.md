@@ -1,1 +1,1 @@
-# Self-assembly-Monte-Carlo-reveals-localized-entanglement-in-giant-polymer-melts
+# Self-assembly Monte Carlo reveals localized entanglement in giant polymer melts
