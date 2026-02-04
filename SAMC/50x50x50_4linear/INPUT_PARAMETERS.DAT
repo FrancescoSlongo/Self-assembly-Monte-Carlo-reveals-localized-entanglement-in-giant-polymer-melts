@@ -1,0 +1,5 @@
+dimension		3
+size			50
+n_linear_chains		4
+n_dumps			10
+n_steps_per_dump	410311
