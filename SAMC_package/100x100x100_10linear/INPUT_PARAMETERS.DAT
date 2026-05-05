@@ -1,0 +1,5 @@
+dimension		3
+lattice_side		100
+n_linear_chains		10
+n_dumps			10
+n_steps_per_dump	3202659
